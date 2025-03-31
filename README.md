@@ -24,7 +24,7 @@ This project is **100% open source**. Feel free to contribute, tweak, or add eve
 
 ### Clone the project:
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/dramatic-sound-button.git
+git clone https://github.com/MintDino/the-sound-button.git
 ```
 
 ### Run locally:
